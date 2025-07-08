@@ -6,12 +6,12 @@
 - **favorite subject:** chemistry
 - **career goal:** pediatrician
 
-## hobbies
+### hobbies
 - tennis
 - painting
 - puzzles
 
-## games i play
+### games i play
 - block blast
 - dress to impress
 - among us
