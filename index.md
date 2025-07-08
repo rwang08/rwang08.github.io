@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+Hey my name is Renee Wang! I am an upcoming senior, and am using this to blog what I am learning in a Big Data Cancer class!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
