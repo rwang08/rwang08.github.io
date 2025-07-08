@@ -6,4 +6,5 @@ The outcomes for people with ALL depends a lot on age and specificities of the d
 **Sources:**
 - American Cancer Society. (2024). *Key Statistics for Acute Lymphocytic Leukemia (ALL)*. https://www.cancer.org/cancer/acute-lymphocytic-leukemia/about/key-statistics.html  
 - National Cancer Institute. (2022). *Adult Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version*. https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq  
-- National Human Genome Research Institute. (2023). *What are genome editing and CRISPR-Cas9?* https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/what-is-genome-editing  
+- National Human Genome Research Institute. (2023). *What are genome editing and CRISPR-Cas9?*. https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/what-is-genome-editing
+](https://pmc.ncbi.nlm.nih.gov/articles/PMC10733529/)
