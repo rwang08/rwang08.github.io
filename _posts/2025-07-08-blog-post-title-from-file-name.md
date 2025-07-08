@@ -1,7 +1,6 @@
 ## my first blog
 
-**school:** **houston high school**
-
+- **school:** **houston high school**
 - **graduation year:** 2026
 - **favorite subject:** chemistry
 - **career goal:** pediatrician
