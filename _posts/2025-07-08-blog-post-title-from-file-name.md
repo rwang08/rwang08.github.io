@@ -12,7 +12,7 @@
 - puzzles
 
 ## games i play
-1. block blast
-2. dress to impress
-3. among us
+- block blast
+- dress to impress
+- among us
 
