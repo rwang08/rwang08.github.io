@@ -1,17 +1,17 @@
 ## my first blog
 
-**School:** **Houston High School**
+**school:** **houston high school**
 
-- **Graduation Year:** 2026
-- **Favorite Subject:** chemistry
-- **Career Goal:** pediatrician
+- **graduation year:** 2026
+- **favorite subject:** chemistry
+- **career goal:** pediatrician
 
-## Hobbies
+## hobbies
 - tennis
 - painting
 - puzzles
 
-## Games I Play
+## games i play
 1. block blast
 2. dress to impress
 3. among us
