@@ -1,6 +1,6 @@
 ## my first blog
 
-### all about me
+## all about me
 - **school:** **houston high school**
 - **graduation year:** 2026
 - **favorite subject:** chemistry
