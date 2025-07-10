@@ -9,4 +9,4 @@ Using Jupyter Notebook, we were able to analyze the data (the amount of base pai
 | 2011 | $0.10          |
 | 2021 | $0.01          |
 
-[I created a html file today](https://rwang08.github.io/firstjupyternotebook.html)
+[Sequencing Jupyter Notebook file!](https://rwang08.github.io/firstjupyternotebook.html)
