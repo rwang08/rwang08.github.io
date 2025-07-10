@@ -8,3 +8,5 @@ Using Jupyter Notebook, we were able to analyze the data (the amount of base pai
 | 2001 | $10,000        |
 | 2011 | $0.10          |
 | 2021 | $0.01          |
+
+[I created a html file today](https://rwang08.github.io/firstjupyternotebook.html)
