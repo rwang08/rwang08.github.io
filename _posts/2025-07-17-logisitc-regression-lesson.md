@@ -8,3 +8,5 @@ This ROC curve shows the performance of a logistic regression model using ITGB4 
 
 <img width="562" height="550" alt="Screenshot 2025-07-17 at 3 26 00 PM" src="https://github.com/user-attachments/assets/4b8ae21a-37c1-49e9-ad77-8878e579648d" />
 This ROC curve evaluates the model's ability to distinguish between brain and lung tissues using both ITGA3 and ITGB4 expression. The curve hugs the top-left corner of the plot, which indicates near-perfect classification. The model is highly accurate with almost no false positives and nearly all true positives, indicating that the combination of these two integrins provides strong discriminatory power between the two tissue types.
+
+[logistic regression jupyter notebook file!](https://rwang08.github.io/logisticregression.html)
