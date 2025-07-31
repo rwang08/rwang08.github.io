@@ -28,5 +28,14 @@
 - the government puts a lot of money into storing cancer cell lines
   - have the Broad Institute which contains multi-omics data which is used to study cancer biology and predict drug sensitivity
 - pharmacologic data is very useful for cell delivery
+- Drug screening using cancer cell lines evaluate the efficacy, potency, and selectivity of the drugs against the dofferent cancer types
+  - 1.) select cell lines
+  - 2.) seed the cell line into multi-well plates and allow the cells to dhere and grow to a certain density under standard conditions
+  - 3.) a library of candidate drugs or different concentrations of a drug is applied to the cells
+  - 4.) cells are incubated
+  - 5.) a dose-response curve is made and analyzed (in this case you would want to inhibit the growth)
+    - look ath the IC50 and EC50
+- Based on the cancer types, the treatments will vary
+  - ex.) chemotherapy for Breast cancer= 2 types (2 types), hormone therapy (3 types of treatments), and targeted therapy (3 types)
 --------------------
 In our example we used for Jupyter Notebook, we found out that in both breast cancer and in myeloid cancers that there a many different subtypes with soem occuring much mroe frequently than others. For example in breast cancer, the model subtype HER2+ occured 16 time (but the distribution was not only skewed towards that one type), while in myeloid cancer, the distibution was much more skewed towards the BCR-ABL1 positive subtype (though there were many different subtypes that occured, this one occured most frequently by far).
