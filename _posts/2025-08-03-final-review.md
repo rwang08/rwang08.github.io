@@ -11,4 +11,4 @@ Making the Kaplan-Meier plots using TCGA data from UCSC Xena was my favorite act
 
 If I had to pick a least favorite activity, I’d probably say it was the one where we calculated sequencing costs over time. It wasn’t that the activity was bad, it just felt more like plugging numbers into formulas than analyzing data, and I just liked the other activities more because they felt more connected to the the content.
 
-Overall I think this class was really interesting and I learned a lot about how cancer works and how big data plays a large role in the research and development of new tools, as well as how AI and machine learning can help make sense of it all. 
+Overall I think this class was really interesting and I learned a lot about how cancer works and how big data plays a large role in the research and development of new tools, as well as how AI and machine learning can help make it make sense. 
