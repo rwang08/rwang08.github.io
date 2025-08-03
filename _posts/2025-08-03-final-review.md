@@ -9,6 +9,6 @@ In the final lesson we learned about liquid biopsy and how cancer spreads throug
 
 Making the Kaplan-Meier plots using TCGA data from UCSC Xena was my favorite activity this summer. I focused on two cancer types which were breast cancer (TCGA BRCA) and acute myeloid leukemia (TCGA LAML), and using the overall survival data we plotted the probability of survival over time for each cancer type. It was really cool to see the actual curves and to be able to interpret what they mean, and see how these innovations were ble to really make an impact on people's lives and really combined biology with coding and real-world data.
 
-If I had to pick a least favorite activity, I’d probably say the one where we calculated sequencing costs over time. It wasn’t that it was bad, it just felt more like plugging numbers into formulas than exploring or analyzing data, and I liked the other activities more because they felt more connected to the biology.
+If I had to pick a least favorite activity, I’d probably say it was the one where we calculated sequencing costs over time. It wasn’t that the activity was bad, it just felt more like plugging numbers into formulas than analyzing data, and I just liked the other activities more because they felt more connected to the the content.
 
 Overall I think this class was really interesting and I learned a lot about how cancer works and how big data plays a large role in the research and development of new tools, as well as how AI and machine learning can help make sense of it all. 
